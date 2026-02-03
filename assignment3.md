@@ -8,7 +8,7 @@ GenZ Slang Evolution Tracker, posted by Likitha Gedipudi, a post-graduate studen
 
 An interesting to track would be to see the frequency of certain term categorization and what that can tell us about our interactions online. Slang is typically used on social media, and can affect how we perceive ourselves and the community around us. It can also be a way to signal the passage of time and arising trends in other areas of pop-culture. You’ll often hear this idea of the “trend cycle” which tracks the evolution of trends; its start, peak, and eventual end. This passage could also be used to signify which age demographics are “on” or “off” trends—sometimes things pass so fast we don’t even know what’s trending!
 
-Likitha Gedipui’s slang tracking dataset is a great tool for any reporter looking to see how this form of language informs us of our behavioral patterns, how we assign value to things indirectly, and anyone trying to understand how Gen-Z communicates with each other. 
+Likitha Gedipudi’s slang tracking dataset is a great tool for any reporter looking to see how this form of language informs us of our behavioral patterns, how we assign value to things indirectly, and anyone trying to understand how Gen-Z communicates with each other. 
 </p>
 
 
