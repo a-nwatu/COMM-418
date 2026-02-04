@@ -11,7 +11,7 @@ Washington, DC 20580<br>
 
 To Whom it May Concern:
 
-This is a request under the Freedom of Information Act. I request that a copy of the following document(s) be provided to me: 
+This is a request under the Freedom of Information Act. I request that a copy of the following document(s) be provided to me:<br> 
 
 All application and licensing documents concerning the Alcoholic Beverage and Cannibis Administration (ABCA), located at 899 North Capitol Street, NE, Medical Cannabis: Suite 4200-A, Alcohol: Suite 4200-B, Washington, DC 20002, in the years 2024-2025. The ABCA recently closed retailer storefronts and suspended several alcohol licenses.
 
@@ -22,7 +22,7 @@ As an undergraduate student, I am willing to pay up to $10.00. If you expect the
 
 If you need to discuss this request, I can be reached at 510-634-3327. Thank you for your consideration of my request.
 
-Sincerely,
+Sincerely,<br>
 Adaobi Nwatu<br>
 4400 Massachusetts Ave, NW<br>
 Washington, D.C., 20016
