@@ -3,11 +3,11 @@
 
 <p>
 
-Freedom of Information Act Request
-Office of General Counsel
-Federal Trade Commission
-600 Pennsylvania Avenue, NW
-Washington, DC 20580
+Freedom of Information Act Request<br>
+Office of General Counsel<br>
+Federal Trade Commission<br>
+600 Pennsylvania Avenue, NW<br>
+Washington, DC 20580<br>
 
 To Whom it May Concern:
 
@@ -23,8 +23,8 @@ As an undergraduate student, I am willing to pay up to $10.00. If you expect the
 If you need to discuss this request, I can be reached at 510-634-3327. Thank you for your consideration of my request.
 
 Sincerely,
-Adaobi Nwatu
-4400 Massachusetts Ave, NW
+Adaobi Nwatu<br>
+4400 Massachusetts Ave, NW<br>
 Washington, D.C., 20016
 
 </p>
