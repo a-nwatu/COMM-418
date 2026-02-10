@@ -8,4 +8,8 @@ For this week's data story, I looked at Google Trends, a website that complies a
 I've never explored Google Trends like this, and I think it would be a handy resource when trying to find overview data about a particular topic; especially since the site reccommends related searches. I enjoyed seeing all the related searches about the Bad Bunny's performance at the Super Bowl, and what type of information people were looking for. Each "Trending Search" section shows the top 10 results for the category and growth statistics for the beginning of the time period and across the duration of the time period.
 
 Google Trends is actually apart of the new Google News Initiative that the platform is using to encourage journalists to, "explore potential story ideas, and can also feature Trends data within news stories to illustrate a general level of interest in, say, a political candidate, social issue or event." 
+
+Link to story: https://trends.withgoogle.com/trends/us/super-bowl-60/?hl=en <br>
+
+Link to Google News Initiative: https://newsinitiative.withgoogle.com/
 </p>
