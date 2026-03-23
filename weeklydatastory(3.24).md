@@ -1,5 +1,5 @@
-<h4> Weekly Data Story Assignment</h4>
-<h1> WIRED: Surveillance and ICE  Are Driving Patients Away From Medial Care, Report Warns</h1>
+<h1> Weekly Data Story Assignment</h1>
+<h4> WIRED: Surveillance and ICE  Are Driving Patients Away From Medial Care, Report Warns</h4>
 
 <p>
 WIRED's article dives into data privacy and protection concerns in the face of immmigration enforcement in hostipals. WIRED cites research from the Electronic Privacy Information Center (EPIC), a non-profit public research advocacy center, on how private corporations data sharing practices might have violated the Health Insurance Portability and Accountability Act (HIPAA).
